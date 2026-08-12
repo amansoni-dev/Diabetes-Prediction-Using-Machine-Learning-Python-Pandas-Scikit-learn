@@ -82,5 +82,3 @@ Diabetes-Prediction/
 ## 🎯 Conclusion
 
 This project demonstrates an end-to-end basic Machine Learning classification workflow, including data exploration, feature standardization, train-test splitting, model training, accuracy evaluation, and prediction on new patient data.
-
-> **Note:** This project is intended for educational purposes and should not be used as a substitute for professional medical diagnosis.
